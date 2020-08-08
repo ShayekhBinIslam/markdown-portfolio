@@ -7,6 +7,6 @@
   - Neural ODE
   - Learning PDE from Data
  
- <details> <summary> Coding Interview Guides </summary>
-  [Here](https://interview.huihut.com/#/en)
+ <details> <summary> Surprise </summary>
+  <a href="https://interview.huihut.com/#/en"> Coding Interview Guides </a>
   </details>
