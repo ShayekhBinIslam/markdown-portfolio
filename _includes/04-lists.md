@@ -7,6 +7,6 @@
   - Neural ODE
   - Learning PDE from Data
  
- <details> <summary> :smile: </summary>
-  Hi
+ <details> <summary> Coding Interview Guides </summary>
+  [Here](https://interview.huihut.com/#/en)
   </details>
