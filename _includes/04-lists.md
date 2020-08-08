@@ -1,7 +1,9 @@
-1. Item 1
-2. Item 2
-  - Nested 1
-  - Nested 2
+#### Current Projects
+1. Classical Graph Algorithms in Neural Networks
+  - Neural Bipartite Matching
+  - Disjoint-Set Union for Pointer Networks
+
+2. 
  
  <details><summary>:smile: </summary>
   Hi
