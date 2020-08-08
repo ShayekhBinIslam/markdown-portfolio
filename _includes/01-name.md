@@ -1,1 +1,1 @@
-# This is my Portfolio
+I am Shayekh. I am a second-year undergradate student at [Department of Computer Science and Engineering](https://cse.buet.ac.bd/), [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). 
