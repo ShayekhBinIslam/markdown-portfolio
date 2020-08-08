@@ -3,8 +3,10 @@
   - Neural Bipartite Matching
   - Disjoint-Set Union for Pointer Networks
 
-2. 
+2. Differnetial Equation Solution using NNs
+  - Neural ODE
+  - Learning PDE from Data
  
- <details><summary>:smile: </summary>
+ <details> <summary> :smile: </summary>
   Hi
   </details>
