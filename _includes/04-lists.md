@@ -1,12 +1,8 @@
-#### Current Projects
-1. Classical Graph Algorithms in Neural Networks
-  - Neural Bipartite Matching
-  - Disjoint-Set Union for Pointer Networks
-
-2. Differnetial Equation Solution using NNs
-  - Neural ODE
-  - Learning PDE from Data
- 
- <details> <summary> Surprise </summary>
+#### Interests
+I am an undergrad with academic mindsets and care about practical implications of machine learning research. I play with generative models in my spare time. I am trying to solve fundamental problems in AI.  
+  
+<!---
+  <details> <summary> Surprise </summary>
   <a href="https://interview.huihut.com/#/en"> Coding Interview Guides </a>
   </details>
+-->
